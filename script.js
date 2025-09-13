@@ -1,5 +1,5 @@
 const products = [
-  { name: "Product 1", price: "$20", image: "https://via.placeholder.com/300x200?text=Product+1" },
+  { name: "Casual TShirt", price: "500", image: "![Image](https://github.com/user-attachments/assets/b89706a7-4b57-4f91-8d92-84fbde2dd3c9)" },
   { name: "Product 2", price: "$35", image: "https://via.placeholder.com/300x200?text=Product+2" },
   { name: "Product 3", price: "$50", image: "https://via.placeholder.com/300x200?text=Product+3" }
 ];
